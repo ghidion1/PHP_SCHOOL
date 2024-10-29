@@ -1,0 +1,15 @@
+{
+    "name": "papp2141/lectia8",
+    "autoload": {
+        "psr-4": {
+            "Papp2141\\Lectia8\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adrian Ghidion",
+            "email": "adrianghedeon12@gmail.com"
+        }
+    ],
+    "require": {}
+}

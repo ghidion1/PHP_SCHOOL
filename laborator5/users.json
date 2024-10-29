@@ -1,0 +1,20 @@
+[
+    {
+        "nume": "John Doe",
+        "email": "jd@gmail.com",
+        "parola": "$2y$10$Q05ozbkaVoZUaMEAwpogPuVTu1Vp.wdiTZIK6znAUIhI\/jITw3epS",
+        "domiciliu": "Chisinau",
+        "genul": "Masculin",
+        "newsletter": "Da",
+        "id": "66fce29f49239"
+    },
+    {
+        "nume": "Jenny Doe",
+        "email": "test@gmail.com",
+        "parola": "$2y$10$Bo6trw019Qvdb8bYdZBOG.St6cbLIYZyHcZ9qNOJn3MCNZO6.FHgS",
+        "domiciliu": "Chisinau",
+        "genul": "Femenin",
+        "newsletter": "Da",
+        "id": "66fce2ac8bb9e"
+    }
+]
